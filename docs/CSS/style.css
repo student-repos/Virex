@@ -7,7 +7,7 @@ body {
 
   background-image:
     linear-gradient(to bottom, #fffc, #fffc),
-    url(/images/neem.jpg);
+    url(../images/neem.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
